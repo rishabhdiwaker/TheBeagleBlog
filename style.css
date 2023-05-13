@@ -1,0 +1,47 @@
+*{
+    font-family: "Inter", sans-serif;
+}
+.div1 {
+  position: relative;
+  height: 430px;
+  width: 1643px;
+  left: 36px;
+  right: 36px;
+  top: 47px;
+  border: 2px solid black;
+}
+.box {
+  box-sizing: border-box;
+  margin: 40px;
+  
+}
+h1 {
+  font-weight: 800;
+  font-size: 48px;
+}
+.par{
+  font-weight: 50;
+  font-size: 33px;
+  word-wrap: break-word;
+}
+a:link {
+  color: black;
+}
+a:visited {
+  color: black;
+}
+.div2{
+    position: relative;
+    left: 55px;
+    right:36px;
+    top: 45px;
+}
+img{
+    width: 845px;
+}
+.div3{
+    position: relative;
+    left: 55px;
+    right:36px;
+    top: 45px;
+}
